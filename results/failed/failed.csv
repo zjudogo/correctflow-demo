@@ -1,0 +1,77 @@
+figure,weights,row_in_test_hw_all,condition_index,map_id,row_in_test_hw_2000_nf,candidates_in_collision,candidates_endpoint_over_1mm,candidates_curvature_violation,figure_2000_nf,feasible_of_100,feasible_of_100_more_seeds_1_to_4
+test_hw_all/test_hw_all_313_seed0.png,seed0,313,356,1,,16,0,0,,1,
+test_hw_all/test_hw_all_1757_seed0.png,seed0,1757,1980,9,,16,0,0,,0,2 2 1 0
+test_hw_all/test_hw_all_1758_seed0.png,seed0,1758,1981,9,,16,0,0,,0,0 1 0 0
+test_hw_all/test_hw_all_6825_seed0.png,seed0,6825,7668,38,552,16,0,0,test_hw_2000_nf/test_hw_2000_nf_552_seed0.png,10,
+test_hw_all/test_hw_all_11370_seed0.png,seed0,11370,12806,64,,16,0,0,,33,
+test_hw_all/test_hw_all_14132_seed0.png,seed0,14132,15948,79,,16,0,0,,7,
+test_hw_all/test_hw_all_16922_seed0.png,seed0,16922,19122,95,,16,0,0,,8,
+test_hw_all/test_hw_all_16997_seed0.png,seed0,16997,19204,96,,16,0,0,,2,
+test_hw_all/test_hw_all_17527_seed0.png,seed0,17527,19884,99,,16,0,0,,14,
+test_hw_all/test_hw_all_18319_seed0.png,seed0,18319,20805,104,,16,0,0,,0,5 6 6 11
+test_hw_all/test_hw_all_18332_seed0.png,seed0,18332,20818,104,,16,0,0,,1,
+test_hw_all/test_hw_all_18337_seed0.png,seed0,18337,20826,104,,16,0,0,,10,
+test_hw_all/test_hw_all_18403_seed0.png,seed0,18403,20909,104,,16,0,0,,0,0 0 0 1
+test_hw_all/test_hw_all_18540_seed0.png,seed0,18540,21081,105,,16,0,0,,5,
+test_hw_all/test_hw_all_19554_seed0.png,seed0,19554,22246,111,,16,0,0,,0,0 0 0 0
+test_hw_all/test_hw_all_19591_seed0.png,seed0,19591,22288,111,,16,0,0,,7,
+test_hw_all/test_hw_all_19653_seed0.png,seed0,19653,22358,111,,16,0,0,,0,0 0 0 0
+test_hw_all/test_hw_all_19852_seed0.png,seed0,19852,22570,113,,16,0,0,,8,
+test_hw_all/test_hw_all_20369_seed0.png,seed0,20369,23173,116,,16,0,0,,3,
+test_hw_all/test_hw_all_20372_seed0.png,seed0,20372,23177,116,,16,0,0,,1,
+test_hw_all/test_hw_all_20378_seed0.png,seed0,20378,23183,116,,16,0,0,,4,
+test_hw_all/test_hw_all_20385_seed0.png,seed0,20385,23193,116,,16,0,0,,3,
+test_hw_all/test_hw_all_20390_seed0.png,seed0,20390,23199,116,,16,0,0,,7,
+test_hw_all/test_hw_all_20399_seed0.png,seed0,20399,23208,116,,16,1,0,,0,1 1 1 0
+test_hw_all/test_hw_all_20400_seed0.png,seed0,20400,23209,116,,16,0,0,,0,1 1 0 0
+test_hw_all/test_hw_all_20441_seed0.png,seed0,20441,23261,116,,16,0,0,,0,0 0 0 0
+test_hw_all/test_hw_all_20482_seed0.png,seed0,20482,23307,116,,16,0,0,,1,
+test_hw_all/test_hw_all_20488_seed0.png,seed0,20488,23314,116,,16,0,0,,3,
+test_hw_all/test_hw_all_20489_seed0.png,seed0,20489,23315,116,,16,0,0,,1,
+test_hw_all/test_hw_all_20509_seed0.png,seed0,20509,23338,116,,16,0,0,,1,
+test_hw_all/test_hw_all_20511_seed0.png,seed0,20511,23342,116,,16,0,0,,2,
+test_hw_all/test_hw_all_20524_seed0.png,seed0,20524,23359,116,,16,0,0,,0,0 0 0 0
+test_hw_all/test_hw_all_20525_seed0.png,seed0,20525,23361,116,,16,0,0,,6,
+test_hw_all/test_hw_all_1758_seed1.png,seed1,1758,1981,9,,16,0,0,,2,
+test_hw_all/test_hw_all_5416_seed1.png,seed1,5416,6124,30,,16,0,0,,17,
+test_hw_all/test_hw_all_10600_seed1.png,seed1,10600,11939,59,,16,0,0,,1,
+test_hw_all/test_hw_all_13271_seed1.png,seed1,13271,14964,74,,16,0,0,,4,
+test_hw_all/test_hw_all_13930_seed1.png,seed1,13930,15697,78,,16,0,0,,16,
+test_hw_all/test_hw_all_18403_seed1.png,seed1,18403,20909,104,,16,0,0,,4,
+test_hw_all/test_hw_all_19510_seed1.png,seed1,19510,22199,111,,16,0,0,,13,
+test_hw_all/test_hw_all_19554_seed1.png,seed1,19554,22246,111,,16,0,0,,2,
+test_hw_all/test_hw_all_19595_seed1.png,seed1,19595,22293,111,,16,1,0,,10,
+test_hw_all/test_hw_all_19653_seed1.png,seed1,19653,22358,111,,16,0,0,,0,1 0 1 0
+test_hw_all/test_hw_all_20339_seed1.png,seed1,20339,23136,115,,16,0,0,,1,
+test_hw_all/test_hw_all_20372_seed1.png,seed1,20372,23177,116,,16,0,0,,0,0 0 0 0
+test_hw_all/test_hw_all_20378_seed1.png,seed1,20378,23183,116,,16,0,0,,3,
+test_hw_all/test_hw_all_20385_seed1.png,seed1,20385,23193,116,,16,0,0,,3,
+test_hw_all/test_hw_all_20390_seed1.png,seed1,20390,23199,116,,16,0,0,,3,
+test_hw_all/test_hw_all_20399_seed1.png,seed1,20399,23208,116,,16,0,0,,5,
+test_hw_all/test_hw_all_20441_seed1.png,seed1,20441,23261,116,,16,0,0,,2,
+test_hw_all/test_hw_all_20489_seed1.png,seed1,20489,23315,116,,16,0,0,,4,
+test_hw_all/test_hw_all_20511_seed1.png,seed1,20511,23342,116,,16,0,0,,0,2 1 0 1
+test_hw_all/test_hw_all_20524_seed1.png,seed1,20524,23359,116,,16,0,0,,0,0 0 0 0
+test_hw_all/test_hw_all_20525_seed1.png,seed1,20525,23361,116,,16,0,0,,11,
+test_hw_all/test_hw_all_20896_seed1.png,seed1,20896,23776,119,1909,16,0,0,test_hw_2000_nf/test_hw_2000_nf_1909_seed1.png,0,0 1 0 1
+test_hw_all/test_hw_all_21161_seed1.png,seed1,21161,24078,120,,16,0,0,,10,
+test_hw_all/test_hw_all_1758_seed2.png,seed2,1758,1981,9,,16,0,0,,1,
+test_hw_all/test_hw_all_4766_seed2.png,seed2,4766,5362,26,,16,0,0,,10,
+test_hw_all/test_hw_all_11396_seed2.png,seed2,11396,12834,64,,16,0,0,,17,
+test_hw_all/test_hw_all_12383_seed2.png,seed2,12383,13958,69,1088,16,0,0,test_hw_2000_nf/test_hw_2000_nf_1088_seed2.png,2,
+test_hw_all/test_hw_all_13175_seed2.png,seed2,13175,14856,74,,16,0,0,,10,
+test_hw_all/test_hw_all_18332_seed2.png,seed2,18332,20818,104,,16,0,0,,5,
+test_hw_all/test_hw_all_18419_seed2.png,seed2,18419,20927,104,,16,0,0,,3,
+test_hw_all/test_hw_all_19653_seed2.png,seed2,19653,22358,111,,16,0,0,,0,0 0 2 1
+test_hw_all/test_hw_all_20099_seed2.png,seed2,20099,22827,114,,16,0,0,,1,
+test_hw_all/test_hw_all_20372_seed2.png,seed2,20372,23177,116,,16,0,0,,0,1 0 0 0
+test_hw_all/test_hw_all_20378_seed2.png,seed2,20378,23183,116,,16,0,0,,4,
+test_hw_all/test_hw_all_20384_seed2.png,seed2,20384,23192,116,,16,0,0,,0,0 0 0 0
+test_hw_all/test_hw_all_20385_seed2.png,seed2,20385,23193,116,,16,0,0,,1,
+test_hw_all/test_hw_all_20390_seed2.png,seed2,20390,23199,116,,16,0,0,,2,
+test_hw_all/test_hw_all_20441_seed2.png,seed2,20441,23261,116,,16,0,0,,1,
+test_hw_all/test_hw_all_20482_seed2.png,seed2,20482,23307,116,,16,0,0,,4,
+test_hw_all/test_hw_all_20493_seed2.png,seed2,20493,23319,116,,16,0,0,,1,
+test_hw_all/test_hw_all_20509_seed2.png,seed2,20509,23338,116,,16,0,0,,1,
+test_hw_all/test_hw_all_20524_seed2.png,seed2,20524,23359,116,,16,0,0,,0,1 0 0 0
+test_hw_all/test_hw_all_21094_seed2.png,seed2,21094,23995,120,,16,0,0,,0,1 0 1 0

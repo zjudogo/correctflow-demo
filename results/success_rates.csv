@@ -1,0 +1,7 @@
+set,weights,queries,failed,success_pct,candidate_success_pct,plan_mean_s,plan_max_s
+test_hw_all,seed0,21956,33,99.8497,95.4947,0.2378,1.1270
+test_hw_all,seed1,21956,23,99.8952,96.3117,0.1929,0.9053
+test_hw_all,seed2,21956,20,99.9089,96.0706,0.1972,1.1123
+test_hw_2000_nf,seed0,2000,1,99.9500,95.5687,0.2397,1.0084
+test_hw_2000_nf,seed1,2000,1,99.9500,96.3500,0.1967,0.8582
+test_hw_2000_nf,seed2,2000,1,99.9500,96.0656,0.2041,1.0570
